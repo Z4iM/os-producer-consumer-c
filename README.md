@@ -7,7 +7,7 @@ This repository holds two C implementations of the producer/consumer assignment 
 
 Both are implemented in C using POSIX threads and tested on **Ubuntu**.
 
----
+
 
 ## TL;DR
 - Language: **C (POSIX)**  
@@ -15,7 +15,7 @@ Both are implemented in C using POSIX threads and tested on **Ubuntu**.
 - Execs: `prodcons_naive` and `prodcons_sem`  
 - Test: `bash tests/run_test.sh`
 
----
+
 
 ## How to build
 ```bash
